@@ -5,3 +5,5 @@ first skill: merge
 second skill: rebase
 
 third skill: reset
+
+four skill: revert
